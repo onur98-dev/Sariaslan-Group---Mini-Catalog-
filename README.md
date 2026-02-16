@@ -1,16 +1,21 @@
-# firstapp
+# Sariaslan Group Mini Catalog
 
 A new Flutter project.
 
-## Getting Started
+# Mini Catalog App
 
-This project is a starting point for a Flutter application.
+A Flutter mini e-commerce catalog app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Product listing from API
+- Product detail page
+- Add to cart
+- Live cart badge update
+- Total price calculation
+- Clean UI with custom theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## API
+https://fakestoreapi.com/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Onur
